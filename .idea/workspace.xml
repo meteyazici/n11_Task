@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3908b5f8-2824-466e-8b69-26f4373857aa" name="Changes" comment="Guncelleme" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GVBAuRJyOku2LYgAGsT6YJTPWb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/uamet/OneDrive/Masaüstü/IdeaProject/ProgrammingLab/N11-Task&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uamet\OneDrive\Masaüstü\IdeaProject\ProgrammingLab\N11-Task" />
+      <recent name="C:\Users\uamet\OneDrive\Masaüstü\IdeaProject\ProgrammingLab\N11-Task\src\test\java\com\n11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uamet\OneDrive\Masaüstü\IdeaProject\ProgrammingLab\N11-Task" />
+      <recent name="C:\Users\uamet\OneDrive\Masaüstü\IdeaProject\ProgrammingLab\N11-Task\src\test\java" />
+      <recent name="C:\Users\uamet\OneDrive\Masaüstü\IdeaProject\ProgrammingLab\N11-Task\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.n11.runners" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="N11-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n11.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n11.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.n11.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3908b5f8-2824-466e-8b69-26f4373857aa" name="Changes" comment="" />
+      <created>1666463737028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666463737028</updated>
+      <workItem from="1666463738482" duration="18151000" />
+      <workItem from="1666520896370" duration="23701000" />
+      <workItem from="1666559221001" duration="3807000" />
+      <workItem from="1666622637808" duration="1434000" />
+      <workItem from="1666624165442" duration="4596000" />
+    </task>
+    <task id="LOCAL-00001" summary="Koruma altına alındı">
+      <created>1666558437760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666558437760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Koruma altına alındı">
+      <created>1666558507579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666558507579</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Koruma altına alındı">
+      <created>1666558618212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666558618212</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Koruma altına alındı">
+      <created>1666559500617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666559500617</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Koruma altına alındı">
+      <created>1666559604845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666559604845</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Güncelleme">
+      <created>1666559922430</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666559922430</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Güncelleme">
+      <created>1666559978899</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666559978899</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Güncelleme">
+      <created>1666560036373</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666560036373</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Güncelleme">
+      <created>1666560060159</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666560060159</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Güncelleme">
+      <created>1666560098037</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666560098037</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Güncelleme">
+      <created>1666560836721</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666560836721</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Güncelleme">
+      <created>1666561420403</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666561420403</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Güncelleme">
+      <created>1666561843065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666561843065</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Guncelleme">
+      <created>1666562125948</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666562125948</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Guncelleme">
+      <created>1666562289314</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666562289314</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Guncelleme">
+      <created>1666562371738</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666562371738</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Guncelleme">
+      <created>1666562693541</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666562693541</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Guncelleme">
+      <created>1666623327773</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666623327774</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Guncelleme">
+      <created>1666623411849</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666623411849</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Guncelleme">
+      <created>1666623460462</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666623460462</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Guncelleme">
+      <created>1666627273253</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1666627273253</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Koruma altına alındı" />
+    <MESSAGE value="Güncelleme" />
+    <MESSAGE value="Guncelleme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Guncelleme" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
